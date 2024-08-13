@@ -10,8 +10,8 @@ import {
 import { createClient } from "@supabase/supabase-js";
 
 const supabaseClient = createClient(
-  "https://ymsijpnegskkoiuerthi.supabase.co",
-  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inltc2lqcG5lZ3Nra29pdWVydGhpIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTQyMzYzNDYsImV4cCI6MjAyOTgxMjM0Nn0.PM7Nr9qTZFEJsf62eHgkFXKGPqt0gfMdFN6SOJjCP6M"
+  "https://mlmpphnvsdwsezcacbsm.supabase.co",
+  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1sbXBwaG52c2R3c2V6Y2FjYnNtIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MjM0OTQ0NjMsImV4cCI6MjAzOTA3MDQ2M30.Xr2jXMKONNP4JCxXHPJpvPW2ZZIyp7fs1cKp_X40jM4"
 );
 
 function CandidateList({
