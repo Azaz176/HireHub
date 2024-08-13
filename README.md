@@ -29,4 +29,21 @@ Hirehub is a job portal where recruiters can post job opportunities and candidat
  ```bash
  git clone https://github.com/Azaz176/HireHub
  ```
- 2. 
+ 2. Navigate to the project directory:
+ ```bash
+ cd hirehub
+
+```
+3. Install dependencies:
+```
+npm install
+```
+4. Set up environment variables:
+    * Create a .env file in the root directory.
+    * Add your environment variables (e.g., database URI, Stripe API keys, supabase keys, clerk auth keys, clerk sign up/in URL).
+5. Run the application:
+```bash
+npm run dev
+```
+## Demo 
+- **Video link**
