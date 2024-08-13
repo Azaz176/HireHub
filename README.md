@@ -1,6 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-## Getting Started
+# HIREHUB
+## Project Overview
+Hirehub is a job portal where recruiters can post job opportunities and candidates can search and apply for jobs. The platform offers filtering options for job seekers to find jobs by company name and location. It also includes a social feed for sharing posts, and a membership system with premium options.
 
 First, run the development server:
 
