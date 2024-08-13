@@ -19,10 +19,11 @@ Hirehub is a job portal where recruiters can post job opportunities and candidat
 
 * **Membership & Payments:**
     * Premium membership plans with added features.
+    * Recruiters can post maximum 2 jobs for free.
     * Secure payments through Stripe.
 
 ## Live Project URL
-[**CLICKE HERE TO ACCESS HIREHUB**](https://hire-hub-five.vercel.app/membership)
+[**CLICKE HERE TO ACCESS HIREHUB**](https://hire-hub-five.vercel.app)
 
 ## Installation
 1. Clone the repository:
@@ -47,3 +48,4 @@ npm run dev
 ```
 ## Demo 
 - **Video link**
+    * [CLICK HERE](https://youtu.be/5PAvT5yDzTE)
