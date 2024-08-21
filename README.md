@@ -25,6 +25,10 @@ Hirehub is a job portal where recruiters can post job opportunities and candidat
 ## Live Project URL
 [**CLICKE HERE TO ACCESS HIREHUB**](https://hire-hub-five.vercel.app)
 
+## Screenshot:
+![21 08 2024_14 28 13_REC](https://github.com/user-attachments/assets/54bfc252-ba69-45bd-b919-f5494f150fab)
+
+
 ## Installation
 1. Clone the repository:
  ```bash
